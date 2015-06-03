@@ -1,0 +1,17 @@
+{
+  "name": "PHPTester",
+  "version": "0.0.0",
+  "description": "Run php snippets locally",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.0"
+  }
+}
