@@ -1,8 +1,8 @@
-# To simply run:
+# To run without messing with the source:
 1. Go to the _dist_ dir and run `php -S 0.0.0.0:1337`
 2. In the browser, type http://0.0.0.0:1337/
 
-# To mess around:
+# To mess around with the source:
 1. Make sure you have [nodejs](https://nodejs.org/) installed. (If `node -v`works, you have.)
 2. From the root dir of the project, run `npm install`.
 3. Now, run `bower install`.
